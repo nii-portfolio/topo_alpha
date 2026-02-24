@@ -1,0 +1,8 @@
+{
+    "python-envs.defaultEnvManager": "ms-python.python:system",
+    "python-envs.pythonProjects": [],
+    "python.analysis.enableTroubleshootMissingImports": true,
+    "python.defaultInterpreterPath": "/usr/local/bin/python3",
+    "cmake.allowCommentsInPresetsFile": true,
+    "cmake.allowUnsupportedPresetsVersions": true
+}
